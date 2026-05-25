@@ -1,0 +1,2 @@
+# ANNEXE-B-Corpus-journalistique-articles-retenus-Le-Devoir-et-Le-Monde-21-mai-14-juillet-2025-
+Le corpus journalistique complet (n=41 articles de presse) a été collecté à partir de la base de données Eureka via UQTR. Ce dépôt comprend les codes de référence, les dates, les titres, les auteurs, leur profession, la section, la page, le nombre de mots, la tonalité et s’il y a des visuels qui ont été utilisés pour illustrer le texte.  
